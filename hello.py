@@ -1,4 +1,7 @@
+def greeting(msg):
+    print(msg)
+
 def main():
-    print 'hello'
+    greeting('hello')
 
 main()
